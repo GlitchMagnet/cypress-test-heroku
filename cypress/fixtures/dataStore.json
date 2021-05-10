@@ -1,0 +1,17 @@
+{
+  "loginHeading":"Login Page",
+  "loginSubheading": "This is where you can log into the secure area. Enter tomsmith for the username and SuperSecretPassword! for the password. If the information is wrong you should see error messages.",
+  "usernameLabel": "Username",
+  "passwordLabel": "Password",
+  "username": "tomsmith",
+  "password": "SuperSecretPassword!",
+  "signInSuccess": "You logged into a secure area!",
+  "signOutSuccess": "You logged out of the secure area!",
+  "invalidUsername": "tomsmit",
+  "usernameError": "Your username is invalid!",
+  "invalidPassword": "SuperSecretPassword",
+  "passwordError": "Your password is invalid!",
+  "secureHeading": "Secure Area",
+  "secureSubheading": "Welcome to the Secure Area. When you are done click logout below.",
+  "userWelcomeValidation": "Welcome"
+}
